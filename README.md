@@ -1,4 +1,5 @@
 ### Hi there 👋
+![useravatar](https://github.com/dfulmer/dfulmer/assets/18075253/a399350e-633b-4345-b6b1-52c6570c485c)
 
 My name's David.
 
